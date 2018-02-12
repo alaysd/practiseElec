@@ -16,8 +16,10 @@
     "deep-equal": "^1.0.1",
     "electron": "^1.8.2",
     "iohook": "^0.1.11",
+    "moment": "^2.20.1",
     "node-browser-history": "^1.0.1",
     "posix": "^4.1.1",
-    "tasklist": "^3.1.0"
+    "tasklist": "^3.1.0",
+    "time-stamp": "^2.0.0"
   }
 }
